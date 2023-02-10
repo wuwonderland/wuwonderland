@@ -1,4 +1,6 @@
-<h1 align="center">Hi 🦾, I'm James Wu</h1>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
+<h1 align="center">I'm 🦾 James Wu </h1>
 <h3 align="center">A computer science enthusiast in blockchain / fullstack / swift development</h3>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -8,8 +10,6 @@
 - 💼 &nbsp; Working as a freelancer remotely from any location.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍🏻 &nbsp; Pursuing bodybuilding as hobbies/side hustles.
-
- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
