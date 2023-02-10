@@ -11,7 +11,8 @@
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍🏻 &nbsp; Pursuing bodybuilding as hobbies/side hustles.
 
-<h3> 🛠 &nbsp;Tech Stack</h3> <br> <p>actively looking for job</p>
+<h3> 🛠 &nbsp;Tech Stack</h3>
+<p>actively looking for job</p> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
